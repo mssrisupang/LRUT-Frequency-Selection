@@ -26,3 +26,21 @@ This project is a Tkinter-based Python application that allows users to analyze 
 
    ```bash
    git clone https://github.com/mssrisupang/LRUT-Frequency-Selection.git
+
+2. Navigate to the project directory:
+   
+   ```bash
+   cd LRUT-Frequency-Selection
+
+4. Install the required dependencies:
+   
+    ```bash
+   pip install -r requirements.txt
+
+5. Run the application
+   
+   ```bash
+   python main.py
+
+
+
