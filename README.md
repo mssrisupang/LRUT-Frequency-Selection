@@ -43,8 +43,10 @@ This project is a Tkinter-based Python application that allows users to analyze 
    python main.py
 
 
-## Video Demonstration
-[![LRUT Frequency Selection Video](https://img.youtube.com/vi/OxY-KirNgoIZdtS6/maxresdefault.jpg)](https://www.youtube.com/watch?v=OxY-KirNgoIZdtS6)
+## Tutorial Video
+
+[![Watch the video](https://img.youtube.com/vi/tqYm0su9Kwc/maxresdefault.jpg)](https://youtu.be/tqYm0su9Kwc?si=OxY-KirNgoIZdtS6)
+
 
 
 
